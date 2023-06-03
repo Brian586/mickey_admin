@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "project-5-97d71"
+  },
+  "targets": {
+    "project-5-97d71": {
+      "hosting": {
+        "mickeyadmin": [
+          "mickeyadmin"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
